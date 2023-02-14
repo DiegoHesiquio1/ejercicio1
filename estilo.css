@@ -67,12 +67,13 @@ body {
 
 .imgfondo {
   padding: 15px;
-  height: 200px;
-  width: 800px;
+  height: 600px;
+  width: 900px;
   background-image: url("imagenes/fototec.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   margin: auto;
+  background-position-y: -400px;
 }
 
 .textofondo {
